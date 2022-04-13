@@ -1,2 +1,2 @@
-# OD_Social_Status
+# OD_Bounded_Confidence
 We study opinion formation in a virtual social group - conservative and liberal - with heterogeneous agents. The agents are either rigid or flexible and are characterized thus based on their confirmation bias. Every agent is also endowed with varying levels of individual popularity, opinion bias and sociability. We evaluate the impact of group size, composition and network connectivity on the outcome. The code is written using PyTorch. Additional modeling details and simulation results are in the pdf.
